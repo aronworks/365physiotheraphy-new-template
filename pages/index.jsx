@@ -2,6 +2,41 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Script from 'next/script'
+// import InsuranceBox from "../src/components/InsuranceBox";
+// import SPONSORAVIVA from "../public/assets/new/SPONSOR_AVIVA.png";
+// import SPONSORCORU from "../images/SPONSOR_CORU.jpg";
+// import SPONSORIRISHLIFE from "../images/SPONSOR_IRISHLIFE.png";
+// import SPONSORISCP from "../images/SPONSOR_ISCP.png";
+// import SPONSORLAYA from "../images/SPONSOR_LAYA.png";
+// import SPONSORVHI from "../images/SPONSOR_VHI.png";
+
+// const box1 = [
+//   {
+//     img: SPONSORAVIVA,
+//     link: "https://www.aviva.co.uk/health/health-products/physio-essentials/",
+//   },
+//   {
+//     img: SPONSORVHI,
+//     link: "https://www1.vhi.ie/home",
+//   },
+//   {
+//     img: SPONSORLAYA,
+//     link: "https://www.layahealthcare.ie/formembers/participatingtherapists/",
+//   },
+//   {
+//     img: SPONSORIRISHLIFE,
+//     link: "https://www.irishlifehealth.ie/benefits/back-up-benefit",
+//   },
+//   {
+//     //img: SPONSORISCP, link:"https://askthephysio.ie/"
+//     img: SPONSORISCP,
+//     link: "https://www.iscp.ie/find-a-physio/thirupal-ragi-2643?iframe=1",
+//   },
+//   {
+//     img: SPONSORCORU,
+//     link: "https://coru.ie/about-us/",
+//   },
+// ];
 
 export default function Home() {
   return (
@@ -77,12 +112,12 @@ export default function Home() {
                 <ul className="info pull-right">
                   <li>
                     <i className="flaticon-pin" />
-                    88 broklyn silver street, USA
+                    256, Swords Road, Santry, Dublin 9 D09RX73
                   </li>
-                  <li>
+                  {/* <li>
                     <i className="flaticon-alarm-clock" />
                     Mon to Fri 9:00am to 6:00pm
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
@@ -103,14 +138,14 @@ export default function Home() {
                     <i className="flaticon-telephone" />
                     <p>Call us anytime</p>
                     <h5>
-                      <a href="tel:886660009999">88 666 000 9999</a>
+                      <a href="tel:353 830985073">+353 830985073</a>
                     </h5>
                   </li>
                   <li>
                     <i className="flaticon-email" />
                     <p>Write a mail</p>
                     <h5>
-                      <a href="mailto:needhelp@info.com">needhelp@info.com</a>
+                      <a href="mailto:needhelp@info.com">contact@365physiotherapy.ie</a>
                     </h5>
                   </li>
                   <li className="btn-box">
@@ -317,23 +352,29 @@ export default function Home() {
                   </nav>
                   <ul className="social-links pull-right clearfix">
                     <li>
-                      <a href="index.html">
-                        <i className="fab fa-twitter" />
+                      <a rel="noreferrer noopener" target="_blank" href="https://twitter.com/365physiosantry">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+
+                    </li>
+                    <li>
+                      <a rel="noreferrer noopener" target="_blank" href="https://www.linkedin.com/company/77759963/">
+                        <i className="fab fa-linkedin"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="index.html">
+                      <a rel="noreferrer noopener" target="_blank" href="https://www.facebook.com/365-Physiotherapy-in-SantryDublin-9-109199244891323">
                         <i className="fab fa-facebook-square" />
                       </a>
                     </li>
                     <li>
-                      <a href="index.html">
-                        <i className="fab fa-instagram" />
+                      <a rel="noreferrer noopener" target="_blank" href="https://www.pinterest.ie/365physiotherapy/">
+                        <i className="fab fa-pinterest-p" />
                       </a>
                     </li>
                     <li>
-                      <a href="index.html">
-                        <i className="fab fa-pinterest-p" />
+                      <a rel="noreferrer noopener" target="_blank" href="https://www.instagram.com/365physiotherapydublin/">
+                        <i className="fab fa-instagram" />
                       </a>
                     </li>
                   </ul>
@@ -600,7 +641,7 @@ export default function Home() {
         </section>
         {/* about-section end */}
         {/* service-section */}
-        <section className="service-section sec-pad border-bottom">
+        {/* <section className="service-section sec-pad border-bottom">
           <div className="auto-container">
             <div className="sec-title">
               <p>Our Services</p>
@@ -713,7 +754,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
         {/* service-section end */}
         {/* clients-section */}
         <section className="clients-section">
@@ -749,7 +790,7 @@ export default function Home() {
         </section>
         {/* clients-section end */}
         {/* proudly-section */}
-        <section className="proudly-section bg-color-1">
+        {/* <section className="proudly-section bg-color-1">
           <div
             className="pattern-layer"
             style={{ backgroundImage: "url(assets/images/shape/pattern-1.png)" }}
@@ -837,10 +878,10 @@ export default function Home() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
         {/* proudly-section end */}
         {/* feature-style-two */}
-        <section className="feature-style-two">
+        {/* <section className="feature-style-two">
           <div className="auto-container">
             <div className="inner-container clearfix">
               <div className="feature-block-two">
@@ -893,10 +934,10 @@ export default function Home() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
         {/* feature-style-two end */}
         {/* testimonial-section */}
-        <section className="testimonial-section sec-pad centred">
+        {/* <section className="testimonial-section sec-pad centred">
           <div className="auto-container">
             <div className="sec-title">
               <p>Our Testimonials</p>
@@ -955,10 +996,10 @@ export default function Home() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
         {/* testimonial-section end */}
         {/* startup-section */}
-        <section
+        {/* <section
           className="startup-section"
           style={{ backgroundImage: "url(assets/images/background/startup-1.jpg)" }}
         >
@@ -1062,10 +1103,10 @@ export default function Home() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
         {/* startup-section end */}
         {/* news-section */}
-        <section className="news-section sec-pad">
+        {/* <section className="news-section sec-pad">
           <div className="auto-container">
             <div className="sec-title centred">
               <p>from the blog</p>
@@ -1203,10 +1244,10 @@ export default function Home() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
         {/* news-section end */}
         {/* gallery-section */}
-        <section className="gallery-section">
+        {/* <section className="gallery-section">
           <div className="container-fluid">
             <div className="row clearfix">
               <div className="col-lg-3 col-md-6 col-sm-12 gallery-block">
@@ -1283,7 +1324,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
         {/* gallery-section end */}
         {/* cta-section */}
         <section className="cta-section bg-color-2">
@@ -1300,6 +1341,12 @@ export default function Home() {
             </div>
           </div>
         </section>
+
+        {/* <section>
+          <div className="home-page__footer-box">
+            <InsuranceBox imgs={box1} right={true} flex=""></InsuranceBox>
+          </div>
+        </section> */}
         {/* cta-section end */}
         {/* main-footer */}
         <footer className="main-footer">
@@ -1326,18 +1373,20 @@ export default function Home() {
                       <ul className="info clearfix">
                         <li>
                           <i className="flaticon-email" />
-                          <a href="mailto:needhelp@info.com">needhelp@info.com</a>
+                          <a href="mailto:contact@365physiotherapy.ie">contact@365physiotherapy.ie</a>
                         </li>
                         <li>
                           <i className="flaticon-pin" />
-                          88 broklyn silver street, USA
+                          256, Swords Road, Santry,
+                          <br />
+                          Dublin 9 D09RX73
                         </li>
                       </ul>
                       <div className="support-box">
                         <i className="flaticon-telephone" />
                         <p>Call us anytime</p>
                         <h5>
-                          <a href="tel:6660009999">666 000 9999</a>
+                          <a href="tel:353 830985073">+353 830985073</a>
                         </h5>
                       </div>
                     </div>
@@ -1349,23 +1398,33 @@ export default function Home() {
                       </div>
                       <div className="widget-content">
                         <ul className="links-list clearfix">
+                          <li title="Home" >
+                            <a href="/home">Home</a>
+                          </li>
+
                           <li>
-                            <a href="index.html">About</a>
+                            <a href="/clinic">Clinic </a>
                           </li>
                           <li>
-                            <a href="index.html">Make Appointment</a>
+                            <a href="/homevisit">Home Visit</a>
                           </li>
                           <li>
-                            <a href="index.html">Our Services</a>
+                            <a href="/aboutus">About Us</a>
                           </li>
                           <li>
-                            <a href="index.html">Team Members</a>
+                            <a href="/testimonials">Testimonials</a>
                           </li>
                           <li>
-                            <a href="index.html">Team Members</a>
+                            <a href="/fees">Fees</a>
                           </li>
                           <li>
-                            <a href="index.html">Contact Us</a>
+                            <a href="/booking">Booking</a>
+                          </li>
+                          <li>
+                            <a href="/faq">FAQ</a>
+                          </li>
+                          <li>
+                            <a href="/contactus">Contact Us</a>
                           </li>
                         </ul>
                       </div>
@@ -1374,17 +1433,17 @@ export default function Home() {
                   <div className="col-lg-3 col-md-6 col-sm-12 footer-column">
                     <div className="footer-widget links-widget">
                       <div className="widget-title">
-                        <h4>Services</h4>
+                        <h4>Company</h4>
                       </div>
                       <div className="widget-content">
                         <ul className="links-list clearfix">
                           <li>
-                            <a href="index.html">Massage Therapy</a>
+                            <a href="/privacypolicy">Privacy Policy</a>
                           </li>
                           <li>
-                            <a href="index.html">Physiotherapy</a>
+                            <a href="/termsandconditions">Terms and Conditions.</a>
                           </li>
-                          <li>
+                          {/* <li>
                             <a href="index.html">Chiroptratic Therapy</a>
                           </li>
                           <li>
@@ -1395,7 +1454,7 @@ export default function Home() {
                           </li>
                           <li>
                             <a href="index.html">Work Injuries</a>
-                          </li>
+                          </li> */}
                         </ul>
                       </div>
                     </div>
@@ -1412,11 +1471,28 @@ export default function Home() {
                         <ul className="shediul-list clearfix">
                           <li>
                             <span>Mon</span>
-                            <h6>9:00am - 6:00pm</h6>
+                            <h6>9:00AM - 5:00PM</h6>
+                            <h6>6:00PM - 9:00PM</h6>
+                          </li>
+
+                          <li>
+                            <span>Tue & Wed</span>
+                            <h6>9:00AM - 5:00PM</h6>
+                            <h6>6:00PM - 9:30PM</h6>
                           </li>
                           <li>
-                            <span>Fri to Sat</span>
-                            <h6>10:00am - 4:00pm</h6>
+                            <span>Thur</span>
+                            <h6>9:00AM - 5:00PM</h6>
+                            <h6>6:30PM - 9:00PM</h6>
+                          </li>
+                          <li>
+                            <span>Fri</span>
+                            <h6>9:00AM - 4:30PM</h6>
+                            <h6>6:30PM - 9:30PM</h6>
+                          </li>
+                          <li>
+                            <span>Sat</span>
+                            <h6>10:00AM - 5:00PM</h6>
                           </li>
                           <li>
                             <span>Sun</span>
@@ -1439,27 +1515,33 @@ export default function Home() {
             <div className="auto-container clearfix">
               <div className="copyright pull-left">
                 <p>
-                  © Copyright 2020 by <a href="index.html">Resox</a>
+                  © Copyright 2022 by <a href="index.html"> 365 Physiotherapy</a>
                 </p>
               </div>
               <ul className="social-links pull-right clearfix">
                 <li>
-                  <a href="index.html">
-                    <i className="fab fa-twitter" />
+                  <a rel="noreferrer noopener" target="_blank" href="https://twitter.com/365physiosantry">
+                    <i className="fab fa-twitter"></i>
+                  </a>
+
+                </li>
+                <li>
+                  <a rel="noreferrer noopener" target="_blank" href="https://www.linkedin.com/company/77759963/">
+                    <i className="fab fa-linkedin"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="index.html">
+                  <a rel="noreferrer noopener" target="_blank" href="https://www.facebook.com/365-Physiotherapy-in-SantryDublin-9-109199244891323">
                     <i className="fab fa-facebook-square" />
                   </a>
                 </li>
                 <li>
-                  <a href="index.html">
+                  <a rel="noreferrer noopener" target="_blank" href="https://www.pinterest.ie/365physiotherapy/">
                     <i className="fab fa-pinterest-p" />
                   </a>
                 </li>
                 <li>
-                  <a href="index.html">
+                  <a rel="noreferrer noopener" target="_blank" href="https://www.instagram.com/365physiotherapydublin/">
                     <i className="fab fa-instagram" />
                   </a>
                 </li>
