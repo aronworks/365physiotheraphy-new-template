@@ -1322,7 +1322,7 @@ export default function Home() {
                   </figure> */}
                   <div className="text">
                     <h2>
-                      "He is a miracle worker, he fixed my neck and shoulder blades problem, highly recommend."
+                      &quot;He is a miracle worker, he fixed my neck and shoulder blades problem, highly recommend.&quot;
                     </h2>
                     <h3>- Mick Shaw</h3>
                   </div>
@@ -1335,7 +1335,7 @@ export default function Home() {
                   </figure> */}
                   <div className="text">
                     <h2>
-                      "I can definitely recommend the therapist. I am currently in progress of my shoulder treatment, injured quite a while ago on a kickboxing training. I can already see a great improvement and can train again. The therapist is very skilled and experienced, definitely knows what he's doing. The treatment includes mostly stretching, massage, dry needling and exercises. Prices are very reasonable for Dublin, time slots are usually available. Definitely great specialist for sports injuries."
+                      &quot;I can definitely recommend the therapist. I am currently in progress of my shoulder treatment, injured quite a while ago on a kickboxing training. I can already see a great improvement and can train again. The therapist is very skilled and experienced, definitely knows what he&apos;s doing. The treatment includes mostly stretching, massage, dry needling and exercises. Prices are very reasonable for Dublin, time slots are usually available. Definitely great specialist for sports injuries.&quot;
                     </h2>
                     <h3>- Vladimir Kopychev</h3>
                   </div>
@@ -1348,7 +1348,7 @@ export default function Home() {
                   </figure> */}
                   <div className="text">
                     <h2>
-                      "The treatment I got here was brilliant .it saved me from a lot of pain.Tirupal Ragi is the person who treated me with his experience he was able to diagnose my problem correctly and treat it in no time. Really grateful and appreciate everything."
+                      &quot;The treatment I got here was brilliant .it saved me from a lot of pain.Tirupal Ragi is the person who treated me with his experience he was able to diagnose my problem correctly and treat it in no time. Really grateful and appreciate everything.&quot;
                     </h2>
                     <h3>- Santosh Pallae</h3>
                   </div>
@@ -1362,7 +1362,11 @@ export default function Home() {
                   </figure> */}
                   <div className="text">
                     <h2>
-                      "I recently had my physio sessions for Tennis Elbow Pain & difficult to do day to day work activities with Thirupal who took his time to truly listen and understand my problem. Very knowledgeable, professional and approachable. He clearly explained do 's and don't and also all the exercises to me. His hands on approach with incorporating dry needling treatment fixed my problem with no pain and able to do all my activites with out any problem , Thanks Thirupal ! Overall, a very positive experience. I highly recommend!."
+                      &quot;I recently had my physio sessions for Tennis Elbow Pain & difficult to do day to
+                      day work activities with Thirupal who took his time to truly listen and understand my problem.
+
+                      Very knowledgeable, professional and approachable. He clearly explained
+                      do &apos;s and don&apos;t and also all the exercises to me. His hands on approach with incorporating dry needling treatment fixed my problem with no pain and able to do all my activites with out any problem , Thanks Thirupal ! Overall, a very positive experience. I highly recommend!.&quot;
                     </h2>
                     <h3>- Radhika Alle</h3>
                   </div>
@@ -1375,7 +1379,7 @@ export default function Home() {
                   </figure> */}
                   <div className="text">
                     <h2>
-                      "My long-term back problem is finally fixed and I'm already back to routine activities. Truly is a wonderful physio! Thanks, Thirupal :)."
+                      &quot;My long-term back problem is finally fixed and I&apos;m already back to routine activities. Truly is a wonderful physio! Thanks, Thirupal :).&quot;
                     </h2>
                     <h3>- P Terry</h3>
                   </div>
@@ -1388,7 +1392,7 @@ export default function Home() {
                   </figure> */}
                   <div className="text">
                     <h2>
-                      "Shoulder muscles were a painful spaghetti junction.3 visitst o Thirupal and I am on the road to recovery! Thanks again!."
+                      &quot;Shoulder muscles were a painful spaghetti junction.3 visitst o Thirupal and I am on the road to recovery! Thanks again!.&quot;
                     </h2>
                     <h3>- Trent Williams</h3>
                   </div>
@@ -1401,7 +1405,7 @@ export default function Home() {
                   </figure> */}
                   <div className="text">
                     <h2>
-                      "Following my shoulder pain and limited movements 365 physiotherapy treated my pain with an individual and comprehensive rehablitation plan. I received a professional and friendly service from Thirupal. He was excellent at demonstrating the exercises and techniques which made the treatment much easier. If I or anybody require further or any treatment in future, I would highly recommend 365physiotherapy, 100 percent guaranteed."
+                      &quot;Following my shoulder pain and limited movements 365 physiotherapy treated my pain with an individual and comprehensive rehablitation plan. I received a professional and friendly service from Thirupal. He was excellent at demonstrating the exercises and techniques which made the treatment much easier. If I or anybody require further or any treatment in future, I would highly recommend 365physiotherapy, 100 percent guaranteed.&quot;
                     </h2>
                     <h3>- Caroline</h3>
                   </div>
@@ -1414,7 +1418,7 @@ export default function Home() {
                   </figure> */}
                   <div className="text">
                     <h2>
-                      "Had a long-term issue with my back and finally got it seen to by Thirupal (Paul).  He was very friendly and knowledgeable; my injury was sorted out professionally and at a very reasonable price.  Would highly recommend anyone to go see him."
+                      &quot;Had a long-term issue with my back and finally got it seen to by Thirupal (Paul).  He was very friendly and knowledgeable; my injury was sorted out professionally and at a very reasonable price.  Would highly recommend anyone to go see him.&quot;
                     </h2>
                     <h3>- Jack</h3>
                   </div>
@@ -1427,7 +1431,7 @@ export default function Home() {
                   </figure> */}
                   <div className="text">
                     <h2>
-                      "He  is very good. Excellent to sorting out any issues I ever had…  he recently fixed my knee problem , he is the best I ever had. "
+                      &quot;He  is very good. Excellent to sorting out any issues I ever had…  he recently fixed my knee problem , he is the best I ever had.&quot;
                     </h2>
                     <h3>- Martin Mc Nutt</h3>
                   </div>
@@ -1440,7 +1444,7 @@ export default function Home() {
                   </figure> */}
                   <div className="text">
                     <h2>
-                      "Highly recommended. I am a patient for 8 yrs now.  Excellent service and really good value for money"
+                      &quot;Highly recommended. I am a patient for 8 yrs now.  Excellent service and really good value for money&quot;
                     </h2>
                     <h3>- Lars</h3>
                   </div>
@@ -1828,7 +1832,7 @@ export default function Home() {
                           <div className="icon-outer">
                             <i className="far fa-angle-up" />
                           </div>
-                          <h5>I've got a problem; do I see a physiotherapist or massage therapist?</h5>
+                          <h5>I&apos;ve got a problem; do I see a physiotherapist or massage therapist?</h5>
                         </div>
                         <div className="acc-content">
                           <div className="text">
@@ -1908,7 +1912,7 @@ export default function Home() {
                         <div className="acc-content">
                           <div className="text">
                             <p>
-                              Yes, our physiotherapist treats children. Parents are required to be present in the treatment room to ensure the diagnosis and treatment is understood and agreed to. And of course, for the child’s comfort."
+                              Yes, our physiotherapist treats children. Parents are required to be present in the treatment room to ensure the diagnosis and treatment is understood and agreed to. And of course, for the child&apos;s comfort.&quot;
                             </p>
                           </div>
                         </div>
