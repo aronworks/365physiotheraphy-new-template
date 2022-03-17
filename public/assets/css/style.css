@@ -1054,7 +1054,7 @@ div#mCSB_1_container {
 .banner-carousel .content-box {
   position: relative;
   display: block;
-  max-width: 750px;
+  max-width: 1000px;
   margin: 0 auto;
   z-index: 5;
 }
@@ -1100,8 +1100,9 @@ div#mCSB_1_container {
   position: relative;
   display: block;
   color: #fff;
-  font-size: 90px;
-  line-height: 90px;
+  font-size: 40px;
+  /* line-height: 90px; */
+  min-height: 100px;
   font-weight: 700;
   margin-bottom: 26px;
   opacity: 0;
@@ -1612,6 +1613,7 @@ div#mCSB_1_container {
 }
 
 .clients-section .clients-logo-box img {
+  height: 100px;
   display: block;
   max-width: 100%;
   width: auto;
@@ -3614,7 +3616,8 @@ div#mCSB_1_container {
 
 .testimonial-style-two .testimonial-content .inner-box {
   position: relative;
-  padding: 6px 0px 14px 300px;
+  /* padding: 6px 0px 14px 300px; */
+  padding: 6px 0px 14px 0px;
   min-height: 237px;
 }
 
@@ -3629,7 +3632,8 @@ div#mCSB_1_container {
 .testimonial-style-two .testimonial-content .inner-box .text h2 {
   position: relative;
   display: block;
-  font-size: 36px;
+  /* font-size: 36px; */
+  font-size: 28px;
   line-height: 50px;
   color: #fff;
   font-weight: 300;
