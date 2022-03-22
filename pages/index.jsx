@@ -1154,7 +1154,7 @@ export default function Home() {
         </section> */}
         {/* feature-style-two end */}
         {/* testimonial-section */}
-        {/* <section className="testimonial-section sec-pad centred">
+        <section className="testimonial-section sec-pad centred">
           <div className="auto-container">
             <div className="sec-title">
               <p>Our Testimonials</p>
@@ -1164,9 +1164,9 @@ export default function Home() {
               <div className="three-item-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
                 <div className="testimonial-block-one">
                   <div className="inner-box">
-                    <h4>"Mick Shaw"</h4>
+                    <h4>Mick Shaw</h4>
                     <p>
-                      "He is a miracle worker, he fixed my neck and shoulder blades problem, highly recommend."
+                      He is a miracle worker, he fixed my neck and shoulder blades problem, highly recommend.
                     </p>
                     <figure className="image-box">
                       <img src="assets/images/resource/testimonial-3.png" alt="" />
@@ -1178,9 +1178,9 @@ export default function Home() {
                 </div>
                 <div className="testimonial-block-one">
                   <div className="inner-box">
-                    <h4>"Vladimir Kopychev"</h4>
+                    <h4>Vladimir Kopychev</h4>
                     <p>
-                      "I can definitely recommend the therapist. I am currently in progress of my shoulder treatment, injured quite a while ago on a kickboxing training. I can already see a great improvement and can train again. The therapist is very skilled and experienced, definitely knows what he's doing. The treatment includes mostly stretching, massage, dry needling and exercises. Prices are very reasonable for Dublin, time slots are usually available. Definitely great specialist for sports injuries."
+                      I can definitely recommend the therapist. I am currently in progress of my shoulder treatment, injured quite a while ago on a kickboxing training. I can already see a great improvement and can train again. The therapist is very skilled and experienced, definitely knows what he&apos;s doing. The treatment includes mostly stretching, massage, dry needling and exercises. Prices are very reasonable for Dublin, time slots are usually available. Definitely great specialist for sports injuries.
                     </p>
                     <figure className="image-box">
                       <img src="assets/images/resource/testimonial-1.png" alt="" />
@@ -1192,9 +1192,9 @@ export default function Home() {
                 </div>
                 <div className="testimonial-block-one">
                   <div className="inner-box">
-                    <h4>"Santosh Pallae" </h4>
+                    <h4>Santosh Pallae</h4>
                     <p>
-                      "The treatment I got here was brilliant .it saved me from a lot of pain.Tirupal Ragi is the person who treated me with his experience he was able to diagnose my problem correctly and treat it in no time. Really grateful and appreciate everything."
+                      The treatment I got here was brilliant .it saved me from a lot of pain.Tirupal Ragi is the person who treated me with his experience he was able to diagnose my problem correctly and treat it in no time. Really grateful and appreciate everything.
                     </p>
                     <figure className="image-box">
                       <img src="assets/images/resource/testimonial-1.png" alt="" />
@@ -1206,9 +1206,9 @@ export default function Home() {
                 </div>
                 <div className="testimonial-block-one">
                   <div className="inner-box">
-                    <h4>"Radhika Alle"</h4>
+                    <h4>Radhika Alle</h4>
                     <p>
-                      "I recently had my physio sessions for Tennis Elbow Pain & difficult to do day to day work activities with Thirupal who took his time to truly listen and understand my problem. Very knowledgeable, professional and approachable. He clearly explained do 's and don't and also all the exercises to me. His hands on approach with incorporating dry needling treatment fixed my problem with no pain and able to do all my activites with out any problem , Thanks Thirupal ! Overall, a very positive experience. I highly recommend!."
+                      I recently had my physio sessions for Tennis Elbow Pain & difficult to do day to day work activities with Thirupal who took his time to truly listen and understand my problem. Very knowledgeable, professional and approachable. He clearly explained do&apos;s and don&apos;t and also all the exercises to me. His hands on approach with incorporating dry needling treatment fixed my problem with no pain and able to do all my activites with out any problem , Thanks Thirupal ! Overall, a very positive experience. I highly recommend!.
                     </p>
                     <figure className="image-box">
                       <img src="assets/images/resource/testimonial-2.png" alt="" />
@@ -1220,9 +1220,9 @@ export default function Home() {
                 </div>
                 <div className="testimonial-block-one">
                   <div className="inner-box">
-                    <h4>"P Terry"</h4>
+                    <h4>P Terry</h4>
                     <p>
-                      "My long-term back problem is finally fixed and I'm already back to routine activities. Truly is a wonderful physio! Thanks, Thirupal :)."
+                      My long-term back problem is finally fixed and I&apos;m already back to routine activities. Truly is a wonderful physio! Thanks, Thirupal :).
                     </p>
                     <figure className="image-box">
                       <img src="assets/images/resource/testimonial-2.png" alt="" />
@@ -1237,9 +1237,9 @@ export default function Home() {
 
                 <div className="testimonial-block-one">
                   <div className="inner-box">
-                    <h4>"Trent Williams"</h4>
+                    <h4>Trent Williams</h4>
                     <p>
-                      "Shoulder muscles were a painful spaghetti junction.3 visitst o Thirupal and I am on the road to recovery! Thanks again!."
+                      Shoulder muscles were a painful spaghetti junction.3 visitst o Thirupal and I am on the road to recovery! Thanks again!.
                     </p>
                     <figure className="image-box">
                       <img src="assets/images/resource/testimonial-3.png" alt="" />
@@ -1252,9 +1252,9 @@ export default function Home() {
 
                 <div className="testimonial-block-one">
                   <div className="inner-box">
-                    <h4>"Caroline"</h4>
+                    <h4>Caroline</h4>
                     <p>
-                      "Following my shoulder pain and limited movements 365 physiotherapy treated my pain with an individual and comprehensive rehablitation plan. I received a professional and friendly service from Thirupal. He was excellent at demonstrating the exercises and techniques which made the treatment much easier. If I or anybody require further or any treatment in future, I would highly recommend 365physiotherapy, 100 percent guaranteed."
+                      Following my shoulder pain and limited movements 365 physiotherapy treated my pain with an individual and comprehensive rehablitation plan. I received a professional and friendly service from Thirupal. He was excellent at demonstrating the exercises and techniques which made the treatment much easier. If I or anybody require further or any treatment in future, I would highly recommend 365physiotherapy, 100 percent guaranteed.
                     </p>
                     <figure className="image-box">
                       <img src="assets/images/resource/testimonial-3.png" alt="" />
@@ -1266,9 +1266,9 @@ export default function Home() {
                 </div>
                 <div className="testimonial-block-one">
                   <div className="inner-box">
-                    <h4>"Jack"</h4>
+                    <h4>Jack</h4>
                     <p>
-                      "Had a long-term issue with my back and finally got it seen to by Thirupal (Paul).  He was very friendly and knowledgeable; my injury was sorted out professionally and at a very reasonable price.  Would highly recommend anyone to go see him."
+                      Had a long-term issue with my back and finally got it seen to by Thirupal (Paul).  He was very friendly and knowledgeable; my injury was sorted out professionally and at a very reasonable price.  Would highly recommend anyone to go see him.
                     </p>
                     <figure className="image-box">
                       <img src="assets/images/resource/testimonial-3.png" alt="" />
@@ -1280,9 +1280,9 @@ export default function Home() {
                 </div>
                 <div className="testimonial-block-one">
                   <div className="inner-box">
-                    <h4>"Martin Mc Nutt"</h4>
+                    <h4>Martin Mc Nutt</h4>
                     <p>
-                      "He  is very good. Excellent to sorting out any issues I ever had…  he recently fixed my knee problem , he is the best I ever had. "
+                      He  is very good. Excellent to sorting out any issues I ever had…  he recently fixed my knee problem , he is the best I ever had.
                     </p>
                     <figure className="image-box">
                       <img src="assets/images/resource/testimonial-3.png" alt="" />
@@ -1294,9 +1294,9 @@ export default function Home() {
                 </div>
                 <div className="testimonial-block-one">
                   <div className="inner-box">
-                    <h4>"Caroline"</h4>
+                    <h4>Caroline</h4>
                     <p>
-                      "Following my shoulder pain and limited movements 365 physiotherapy treated my pain with an individual and comprehensive rehablitation plan. I received a professional and friendly service from Thirupal. He was excellent at demonstrating the exercises and techniques which made the treatment much easier. If I or anybody require further or any treatment in future, I would highly recommend 365physiotherapy, 100 percent guaranteed.",
+                      Following my shoulder pain and limited movements 365 physiotherapy treated my pain with an individual and comprehensive rehablitation plan. I received a professional and friendly service from Thirupal. He was excellent at demonstrating the exercises and techniques which made the treatment much easier. If I or anybody require further or any treatment in future, I would highly recommend 365physiotherapy, 100 percent guaranteed.,
                     </p>
                     <figure className="image-box">
                       <img src="assets/images/resource/testimonial-3.png" alt="" />
@@ -1304,150 +1304,6 @@ export default function Home() {
                     <figure className="quote-box">
                       <img src="assets/images/icons/quote-1.png" alt="" />
                     </figure>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section> */}
-        {/* testimonial-section end */}
-        <section className="testimonial-style-two"
-          style={{ backgroundImage: "url(assets/images/background/testimonial-1.jpg)" }}
-        >
-          <div className="auto-container">
-            <div className="single-item-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
-              <div className="testimonial-content">
-                <div className="inner-box">
-                  {/* <figure className="image-box">
-                    <img src="assets/images/resource/testimonial-1.jpg" alt="" />
-                  </figure> */}
-                  <div className="text">
-                    <h2>
-                      &quot;He is a miracle worker, he fixed my neck and shoulder blades problem, highly recommend.&quot;
-                    </h2>
-                    <h3>- Mick Shaw</h3>
-                  </div>
-                </div>
-              </div>
-              <div className="testimonial-content">
-                <div className="inner-box">
-                  {/* <figure className="image-box">
-                    <img src="assets/images/resource/testimonial-1.jpg" alt="" />
-                  </figure> */}
-                  <div className="text">
-                    <h2>
-                      &quot;I can definitely recommend the therapist. I am currently in progress of my shoulder treatment, injured quite a while ago on a kickboxing training. I can already see a great improvement and can train again. The therapist is very skilled and experienced, definitely knows what he&apos;s doing. The treatment includes mostly stretching, massage, dry needling and exercises. Prices are very reasonable for Dublin, time slots are usually available. Definitely great specialist for sports injuries.&quot;
-                    </h2>
-                    <h3>- Vladimir Kopychev</h3>
-                  </div>
-                </div>
-              </div>
-              <div className="testimonial-content">
-                <div className="inner-box">
-                  {/* <figure className="image-box">
-                    <img src="assets/images/resource/testimonial-1.jpg" alt="" />
-                  </figure> */}
-                  <div className="text">
-                    <h2>
-                      &quot;The treatment I got here was brilliant .it saved me from a lot of pain.Tirupal Ragi is the person who treated me with his experience he was able to diagnose my problem correctly and treat it in no time. Really grateful and appreciate everything.&quot;
-                    </h2>
-                    <h3>- Santosh Pallae</h3>
-                  </div>
-                </div>
-              </div>
-
-              <div className="testimonial-content">
-                <div className="inner-box">
-                  {/* <figure className="image-box">
-                    <img src="assets/images/resource/testimonial-1.jpg" alt="" />
-                  </figure> */}
-                  <div className="text">
-                    <h2>
-                      &quot;I recently had my physio sessions for Tennis Elbow Pain & difficult to do day to
-                      day work activities with Thirupal who took his time to truly listen and understand my problem.
-
-                      Very knowledgeable, professional and approachable. He clearly explained
-                      do &apos;s and don&apos;t and also all the exercises to me. His hands on approach with incorporating dry needling treatment fixed my problem with no pain and able to do all my activites with out any problem , Thanks Thirupal ! Overall, a very positive experience. I highly recommend!.&quot;
-                    </h2>
-                    <h3>- Radhika Alle</h3>
-                  </div>
-                </div>
-              </div>
-              <div className="testimonial-content">
-                <div className="inner-box">
-                  {/* <figure className="image-box">
-                    <img src="assets/images/resource/testimonial-1.jpg" alt="" />
-                  </figure> */}
-                  <div className="text">
-                    <h2>
-                      &quot;My long-term back problem is finally fixed and I&apos;m already back to routine activities. Truly is a wonderful physio! Thanks, Thirupal :).&quot;
-                    </h2>
-                    <h3>- P Terry</h3>
-                  </div>
-                </div>
-              </div>
-              <div className="testimonial-content">
-                <div className="inner-box">
-                  {/* <figure className="image-box">
-                    <img src="assets/images/resource/testimonial-1.jpg" alt="" />
-                  </figure> */}
-                  <div className="text">
-                    <h2>
-                      &quot;Shoulder muscles were a painful spaghetti junction.3 visitst o Thirupal and I am on the road to recovery! Thanks again!.&quot;
-                    </h2>
-                    <h3>- Trent Williams</h3>
-                  </div>
-                </div>
-              </div>
-              <div className="testimonial-content">
-                <div className="inner-box">
-                  {/* <figure className="image-box">
-                    <img src="assets/images/resource/testimonial-1.jpg" alt="" />
-                  </figure> */}
-                  <div className="text">
-                    <h2>
-                      &quot;Following my shoulder pain and limited movements 365 physiotherapy treated my pain with an individual and comprehensive rehablitation plan. I received a professional and friendly service from Thirupal. He was excellent at demonstrating the exercises and techniques which made the treatment much easier. If I or anybody require further or any treatment in future, I would highly recommend 365physiotherapy, 100 percent guaranteed.&quot;
-                    </h2>
-                    <h3>- Caroline</h3>
-                  </div>
-                </div>
-              </div>
-              <div className="testimonial-content">
-                <div className="inner-box">
-                  {/* <figure className="image-box">
-                    <img src="assets/images/resource/testimonial-1.jpg" alt="" />
-                  </figure> */}
-                  <div className="text">
-                    <h2>
-                      &quot;Had a long-term issue with my back and finally got it seen to by Thirupal (Paul).  He was very friendly and knowledgeable; my injury was sorted out professionally and at a very reasonable price.  Would highly recommend anyone to go see him.&quot;
-                    </h2>
-                    <h3>- Jack</h3>
-                  </div>
-                </div>
-              </div>
-              <div className="testimonial-content">
-                <div className="inner-box">
-                  {/* <figure className="image-box">
-                    <img src="assets/images/resource/testimonial-1.jpg" alt="" />
-                  </figure> */}
-                  <div className="text">
-                    <h2>
-                      &quot;He  is very good. Excellent to sorting out any issues I ever had…  he recently fixed my knee problem , he is the best I ever had.&quot;
-                    </h2>
-                    <h3>- Martin Mc Nutt</h3>
-                  </div>
-                </div>
-              </div>
-              <div className="testimonial-content">
-                <div className="inner-box">
-                  {/* <figure className="image-box">
-                    <img src="assets/images/resource/testimonial-1.jpg" alt="" />
-                  </figure> */}
-                  <div className="text">
-                    <h2>
-                      &quot;Highly recommended. I am a patient for 8 yrs now.  Excellent service and really good value for money&quot;
-                    </h2>
-                    <h3>- Lars</h3>
                   </div>
                 </div>
               </div>

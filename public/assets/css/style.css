@@ -2020,7 +2020,8 @@ div#mCSB_1_container {
 .testimonial-block-one .inner-box p {
   font-size: 20px;
   line-height: 40px;
-  max-width: 250px;
+  padding: 0 4rem;
+  /* max-width: 250px; */
   margin: 0 auto 31px auto;
 }
 

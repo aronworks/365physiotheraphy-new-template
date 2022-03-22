@@ -250,13 +250,13 @@
 					items: 1
 				},
 				600: {
-					items: 2
+					items: 1
 				},
 				800: {
-					items: 2
+					items: 1
 				},
 				1024: {
-					items: 3
+					items: 1
 				}
 			}
 		});
