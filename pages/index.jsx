@@ -214,7 +214,7 @@ export default function Home() {
                           </ul>
                         </li>
                         <li className="dropdown">
-                          <a href="index.html">What We Traet </a>
+                          <a href="index.html">What We Treat </a>
                           <div className="megamenu">
                             <div className="row clearfix">
                               <div className="col-lg-6 column">
@@ -296,7 +296,7 @@ export default function Home() {
                             </div>
                           </div>
                         </li>
-                        <li className="dropdown">
+                        {/* <li className="dropdown">
                           <a href="index.html">Blog</a>
                           <ul>
                             <li>
@@ -309,7 +309,7 @@ export default function Home() {
                               <a href="blog-details.html">Blog Details</a>
                             </li>
                           </ul>
-                        </li>
+                        </li> */}
                         {/* <li>
                           <a href="contact.html">Home</a>
                         </li>
@@ -326,7 +326,10 @@ export default function Home() {
                           <a href="contact.html">Booking</a>
                         </li> */}
                         <li>
-                          <a href="contact.html">Contact Us</a>
+                          <a href="contact.html">Blog</a>
+                        </li>
+                        <li>
+                          <a href="contact.html">Contact</a>
                         </li>
                       </ul>
                     </div>
