@@ -142,16 +142,16 @@ export default function Home() {
                       id="navbarSupportedContent"
                     >
                       <ul className="navigation clearfix">
-                        {/* <li className="current dropdown">
+                        <li className="current dropdown">
                           <a href="index.html">Home</a>
                           <ul>
                             <li>
-                              <a href="index.html">Home Page 01</a>
+                              <a href="index.html">Clinic</a>
                             </li>
                             <li>
-                              <a href="index-2.html">Home Page 02</a>
+                              <a href="index-2.html">Home Visit</a>
                             </li>
-                            <li>
+                            {/* <li>
                               <a href="index-onepage.html">OnePage Home</a>
                             </li>
                             <li>
@@ -167,91 +167,89 @@ export default function Home() {
                                   <a href="index-2.html">Header Style 02</a>
                                 </li>
                               </ul>
-                            </li>
+                            </li> */}
                           </ul>
                         </li>
                         <li className="dropdown">
-                          <a href="index.html">Pages</a>
+                          <a href="index.html">About Us</a>
                           <ul>
                             <li>
-                              <a href="about.html">About Us</a>
+                              <a href="about.html">Our Team</a>
                             </li>
                             <li>
-                              <a href="therapists.html">Our Therapists</a>
+                              <a href="therapists.html">Service Fees</a>
                             </li>
                             <li>
-                              <a href="therapists-details.html">Therapists Details</a>
+                              <a href="therapists-details.html">Testimonial</a>
                             </li>
-                            <li>
+                            {/* <li>
                               <a href="error.html">404</a>
-                            </li>
+                            </li> */}
                           </ul>
                         </li>
                         <li className="dropdown">
-                          <a href="index.html">Services</a>
+                          <a href="index.html">Our Services</a>
                           <ul>
                             <li>
-                              <a href="service.html">Our Services</a>
+                              <a href="service-details.html">Musculoskeletal Conditions</a>
                             </li>
                             <li>
-                              <a href="service-details.html">Physiotherapy</a>
+                              <a href="service-details-2.html">Post Surgery Physio Rehab</a>
                             </li>
                             <li>
-                              <a href="service-details-2.html">Massage Therapy</a>
+                              <a href="service-details-3.html">Sports Physiotheraphy</a>
                             </li>
                             <li>
-                              <a href="service-details-3.html">Sport Injuries</a>
+                              <a href="service-details-4.html"> Dry Needling</a>
                             </li>
                             <li>
-                              <a href="service-details-4.html">
-                                Chiroptratic Therapy
-                              </a>
+                              <a href="service-details-5.html">Children&apos;s Physio</a>
                             </li>
                             <li>
-                              <a href="service-details-5.html">Clinical Pilates</a>
+                              <a href="service-details-6.html">Home Visit&apos;s Physio</a>
                             </li>
                             <li>
-                              <a href="service-details-6.html">Work Injusries</a>
+                              <a href="service-details-6.html">Vestibular Rehab</a>
                             </li>
                           </ul>
                         </li>
                         <li className="dropdown">
-                          <a href="index.html">Elements</a>
+                          <a href="index.html">What We Traet </a>
                           <div className="megamenu">
                             <div className="row clearfix">
                               <div className="col-lg-6 column">
                                 <ul>
                                   <li>
-                                    <h4>Elements 1</h4>
+                                    <h4>Clinic Conditions</h4>
                                   </li>
                                   <li>
-                                    <a href="about-element-1.html">About Block 01</a>
+                                    <a href="about-element-1.html">Back Pain & Rehab</a>
                                   </li>
                                   <li>
-                                    <a href="about-element-2.html">About Block 02</a>
+                                    <a href="about-element-2.html">Neck Pain & Headaches</a>
                                   </li>
                                   <li>
-                                    <a href="about-element-3.html">About Block 03</a>
+                                    <a href="about-element-3.html">Shoulder pain & Rehab</a>
                                   </li>
                                   <li>
                                     <a href="service-element-1.html">
-                                      Service Block 01
+                                      Elbow pain & Rehab
                                     </a>
                                   </li>
                                   <li>
                                     <a href="service-element-2.html">
-                                      Service Block 02
+                                      Wrist & Hand pain & Rehab
                                     </a>
                                   </li>
                                   <li>
-                                    <a href="news-element-1.html">News Block 01</a>
+                                    <a href="news-element-1.html">Hip pain & Rehab</a>
                                   </li>
                                   <li>
-                                    <a href="news-element-2.html">News Block 02</a>
+                                    <a href="news-element-2.html">Knee pain & Rehab</a>
                                   </li>
                                   <li>
                                     <a href="project-element-1.html">
-                                      Project Block 01
+                                      Ankle and Foot pain & Rehab
                                     </a>
                                   </li>
                                 </ul>
@@ -259,39 +257,39 @@ export default function Home() {
                               <div className="col-lg-6 column">
                                 <ul>
                                   <li>
-                                    <h4>Elements 2</h4>
+                                    <h4>Home Visits Conditions</h4>
                                   </li>
                                   <li>
                                     <a href="project-element-2.html">
-                                      Project Block 02
+                                      Post Op Rehab Conditions
                                     </a>
                                   </li>
                                   <li>
-                                    <a href="team-element-1.html">Team Block 01</a>
+                                    <a href="team-element-1.html">Pain Management Conditions</a>
                                   </li>
                                   <li>
-                                    <a href="team-element-2.html">Team Block 02</a>
+                                    <a href="team-element-2.html">Aged Care Conditions</a>
                                   </li>
                                   <li>
                                     <a href="feature-element-1.html">
-                                      Feature Block 01
+                                      Neurological Conditions
                                     </a>
                                   </li>
                                   <li>
                                     <a href="feature-element-2.html">
-                                      Feature Block 02
+                                      Orthopaedic Conditions
                                     </a>
                                   </li>
                                   <li>
                                     <a href="testimonial-element.html">
-                                      Testimonial Block
+                                      Cardio Rehab Conditions
                                     </a>
                                   </li>
                                   <li>
-                                    <a href="clients-element.html">Clients Block</a>
+                                    <a href="clients-element.html">Sports injury Rehab</a>
                                   </li>
                                   <li>
-                                    <a href="faq-element.html">Faq Block</a>
+                                    <a href="faq-element.html">Falls Assesment & Treatment</a>
                                   </li>
                                 </ul>
                               </div>
@@ -311,8 +309,8 @@ export default function Home() {
                               <a href="blog-details.html">Blog Details</a>
                             </li>
                           </ul>
-                        </li> */}
-                        <li>
+                        </li>
+                        {/* <li>
                           <a href="contact.html">Home</a>
                         </li>
                         <li>
@@ -326,7 +324,7 @@ export default function Home() {
                         </li>
                         <li>
                           <a href="contact.html">Booking</a>
-                        </li>
+                        </li> */}
                         <li>
                           <a href="contact.html">Contact Us</a>
                         </li>
