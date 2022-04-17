@@ -53,10 +53,7 @@ export default function Home() {
                         <div className='auto-container'>
                             <div className='top-inner clearfix'>
                                 <div className='text pull-left'>
-                                    <p>
-                                        Welcome to the professional
-                                        physiotherapy clinic
-                                    </p>
+                                    <p>Welcome to the 365 Physiotherapy</p>
                                 </div>
                                 <ul className='info pull-right'>
                                     <li>
@@ -89,10 +86,10 @@ export default function Home() {
                                 <ul className='upper-info pull-right clearfix'>
                                     <li>
                                         <i className='flaticon-telephone' />
-                                        <p>Call us anytime</p>
+                                        <p>Call us</p>
                                         <h5>
-                                            <a href='tel:353 830985073'>
-                                                +353 830985073
+                                            <a href='tel:0830985073'>
+                                                0830985073
                                             </a>
                                         </h5>
                                     </li>
@@ -291,7 +288,7 @@ export default function Home() {
                                                                     <li>
                                                                         <a href='service-element-2.html'>
                                                                             Wrist
-                                                                            &
+                                                                            pain,
                                                                             Hand
                                                                             pain
                                                                             &
@@ -317,7 +314,7 @@ export default function Home() {
                                                                     <li>
                                                                         <a href='project-element-1.html'>
                                                                             Ankle
-                                                                            and
+                                                                            pain,
                                                                             Foot
                                                                             pain
                                                                             &
@@ -337,8 +334,10 @@ export default function Home() {
                                                                     </li>
                                                                     <li>
                                                                         <a href='project-element-2.html'>
+                                                                            Pre
+                                                                            &
                                                                             Post
-                                                                            Op
+                                                                            surgery
                                                                             Rehab
                                                                             Conditions
                                                                         </a>
@@ -372,6 +371,8 @@ export default function Home() {
                                                                     <li>
                                                                         <a href='testimonial-element.html'>
                                                                             Cardio
+                                                                            &
+                                                                            Resprioty
                                                                             Rehab
                                                                             Conditions
                                                                         </a>
@@ -425,11 +426,11 @@ export default function Home() {
                         <li>
                           <a href="contact.html">Booking</a>
                         </li> */}
-                                                <li>
+                                                {/* <li>
                                                     <a href='contact.html'>
                                                         Blog
                                                     </a>
-                                                </li>
+                                                </li> */}
                                                 <li>
                                                     <a href='contact.html'>
                                                         Contact
@@ -895,13 +896,10 @@ export default function Home() {
                                     <i className='flaticon-physiotherapy' />
                                 </div>
                                 <div className='inner'>
-                                    <h4>Both Clinic service and Home visit</h4>
+                                    <h4>Clinic service and Home visit</h4>
                                     <p>
                                         Emergency Home Visit Service Provided on
-                                        Week-Ends and Public Holidays, Service
-                                        Charges varies based on distance and
-                                        Complexity of problem or Duration of
-                                        Assessment and Treatment
+                                        Week-Ends and Public Holidays.
                                     </p>
                                     <a href='index.html'>
                                         <i className='fas fa-chevron-circle-right' />
@@ -1054,7 +1052,7 @@ export default function Home() {
                                                 alt=''
                                             />
                                         </figure>
-                                        <figure className='image image-2'>
+                                        {/* <figure className='image image-2'>
                                             <img
                                                 src='assets/images/resource/about-2.jpg'
                                                 alt=''
@@ -1065,7 +1063,7 @@ export default function Home() {
                                                 src='assets/images/icons/icon-2.png'
                                                 alt=''
                                             />
-                                        </figure>
+                                        </figure> */}
                                     </div>
                                 </div>
                             </div>
@@ -1073,7 +1071,7 @@ export default function Home() {
                                 <div id='content_block_7'>
                                     <div className='content-box ml-40'>
                                         <div className='sec-title'>
-                                            <p>ABOUT CLINIC</p>
+                                            <p>About 365 Physiotherapy</p>
                                         </div>
                                         <div className='text'>
                                             <p>
@@ -1518,7 +1516,7 @@ export default function Home() {
                     <div className='auto-container'>
                         <div className='sec-title'>
                             <p>Our Testimonials</p>
-                            <h2>What Our Patients Say</h2>
+                            <h2>What Our Clients Say</h2>
                         </div>
                         <div className='inner-container'>
                             <div className='three-item-carousel owl-carousel owl-theme owl-dots-none owl-nav-none'>
@@ -1825,7 +1823,7 @@ export default function Home() {
                                         <div className='sec-title light'>
                                             <p>We’re here to help you</p>
                                             <h2>
-                                                Start Up Your Health Care With
+                                                Start Up Your Physio Care With
                                                 Us
                                             </h2>
                                         </div>
@@ -1841,12 +1839,9 @@ export default function Home() {
                                                     </a>
                                                 </h4>
                                                 <p>
-                                                    Lorem Ipsum. Proin gravida
-                                                    nibh vel velit auctor
-                                                    aliquet. Aenean
-                                                    sollicitudin, lorem is
-                                                    simply free text quis
-                                                    bibendum.
+                                                    Get Free Consultation 365
+                                                    Physiotherapapy offers 15
+                                                    mins free consultation.
                                                 </p>
                                             </div>
                                             <div className='inner'>
@@ -1855,30 +1850,38 @@ export default function Home() {
                                                 </div>
                                                 <h4>
                                                     <a href='index.html'>
-                                                        Quality Equipment &amp;
-                                                        Tools
+                                                        Senior Chartered
+                                                        Physiotherapists
                                                     </a>
                                                 </h4>
                                                 <p>
-                                                    Lorem Ipsum. Proin gravida
-                                                    nibh vel velit auctor
-                                                    aliquet. Aenean
-                                                    sollicitudin, lorem is
-                                                    simply free text quis
-                                                    bibendum.
+                                                    Reduce your pain, increase
+                                                    your mobility, and promote
+                                                    recovery in the most
+                                                    comfortable and relaxing
+                                                    environment a healthcare
+                                                    practice can offer.
                                                 </p>
                                             </div>
                                         </div>
-                                        <div className='inner-box'>
-                                            <div className='icon-box'>
-                                                <i className='flaticon-physiotherapy' />
+
+                                        <a
+                                            href='https://goo.gl/maps/MfvAaB7v6WiZ4WHB6'
+                                            target='_blank'
+                                            rel='noopener noreferrer'
+                                        >
+                                            <div className='inner-box'>
+                                                <div className='icon-box'>
+                                                    <i className='flaticon-physiotherapy' />
+                                                </div>
+                                                <h3>
+                                                    Click here to Check our
+                                                    Google
+                                                    <span> 5 Stars </span>
+                                                    ratings and reviews
+                                                </h3>
                                             </div>
-                                            <h3>
-                                                Resox is trust by more <br />
-                                                then <span>8800</span> healthy
-                                                patients
-                                            </h3>
-                                        </div>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -1886,11 +1889,11 @@ export default function Home() {
                                 <div id='content_block_4'>
                                     <div className='form-inner ml-40'>
                                         <h6>Fill the form</h6>
-                                        <p>
+                                        {/* <p>
                                             Lorem ipsum dolor sit amet, conse
                                             ctetur adipisicin elit ipmon sed
                                             tempor
-                                        </p>
+                                        </p> */}
                                         <form action='index.html' method='post'>
                                             <div className='form-group'>
                                                 <input
@@ -2114,7 +2117,7 @@ export default function Home() {
                 </section> */}
                 {/* news-section end */}
                 {/* gallery-section */}
-                <section
+                {/* <section
                     className='gallery-section'
                     style={{ paddingTop: '113px' }}
                 >
@@ -2206,7 +2209,7 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> */}
                 {/* gallery-section end */}
 
                 {/* <!-- faq-section --> */}
@@ -2850,10 +2853,10 @@ export default function Home() {
                                             </ul>
                                             <div className='support-box'>
                                                 <i className='flaticon-telephone' />
-                                                <p>Call us anytime</p>
+                                                <p>Call us</p>
                                                 <h5>
-                                                    <a href='tel:353 830985073'>
-                                                        +353 830985073
+                                                    <a href='tel:0830985073'>
+                                                        0830985073
                                                     </a>
                                                 </h5>
                                             </div>
