@@ -1372,25 +1372,18 @@ export default function Home() {
                                         </div>
                                         <div className='text'>
                                             <p>
-                                                Donec pellentesque dapibus
-                                                interdum. Mauris et tellus
-                                                congue , rutrum neque a, varius
-                                                felis. Phasellus nibh diam,
-                                                tincidunt nec risus ut, auctor
-                                                gravida metus that covers the
-                                                front of the eye.
+                                                Reduce your pain, increase your
+                                                mobility, and promote recovery
+                                                in the most comfortable and
+                                                relaxing environment.
                                             </p>
                                         </div>
                                         <ul className='list-item clearfix'>
+                                            <li>Emergency Home Visit</li>
+                                            <li>Service -Professional and</li>
                                             <li>
-                                                24 -Hours Emergency Services
-                                            </li>
-                                            <li>
-                                                Professional and Certified
-                                                Therapists
-                                            </li>
-                                            <li>
-                                                Get Free Consultation Anytime
+                                                Certified Therapists Get Free
+                                                Consultation
                                             </li>
                                         </ul>
                                         <div className='counter-inner clearfix'>
