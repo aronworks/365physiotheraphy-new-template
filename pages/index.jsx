@@ -571,7 +571,7 @@ export default function Home() {
                         <i className='fas fa-times' />
                     </div>
                     <nav className='menu-box'>
-                        <div className='nav-logo'>
+                        {/* <div className='nav-logo'>
                             <a href='index.html'>
                                 <img
                                     src='assets/images/logo-2.png'
@@ -579,7 +579,8 @@ export default function Home() {
                                     title=''
                                 />
                             </a>
-                        </div>
+                        </div> */}
+                        <div style={{ marginTop: '60px' }}></div>
                         <div className='menu-outer'>
                             {/*Here Menu Will Come Automatically Via Javascript / Same Menu as in Header*/}
                         </div>
